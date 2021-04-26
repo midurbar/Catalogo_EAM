@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb://localhost/angular-auth', {
+mongoose.connect('mongodb://localhost/catalogo-eam', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
